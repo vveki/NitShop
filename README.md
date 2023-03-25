@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+All changes in repository need to be reported and managed by professor.
+All custom SDKs and packages needs to be consulted with professor first.
+
 ## Available Scripts
 
 In the project directory, you can run:
